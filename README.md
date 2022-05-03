@@ -1,0 +1,2 @@
+# automatizationator
+Diplomna who
